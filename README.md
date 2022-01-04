@@ -57,12 +57,6 @@ add the connection string to the .env file
 
 MONGO_CONNECTION_STRING = 'your_mongo_connectiong_string'
 
-Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
-
-- A setting;
-- Another setting;
-- One more setting;
-
 ## Running the project
 
     $ npm run dev
